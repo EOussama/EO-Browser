@@ -10,3 +10,4 @@ C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.vbproj
 C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.exe
 C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.xml
 C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.pdb
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO_Browser.fSplash.resources
