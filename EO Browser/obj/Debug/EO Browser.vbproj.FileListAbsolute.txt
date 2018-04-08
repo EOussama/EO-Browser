@@ -1,0 +1,12 @@
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\bin\Debug\EO Browser.exe.config
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\bin\Debug\EO Browser.exe
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\bin\Debug\EO Browser.pdb
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\bin\Debug\EO Browser.xml
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.vbprojResolveAssemblyReference.cache
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO_Browser.fMain.resources
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO_Browser.Resources.resources
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.vbproj.GenerateResource.cache
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.vbproj.CoreCompileInputs.cache
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.exe
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.xml
+C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.pdb
