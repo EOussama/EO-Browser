@@ -46,6 +46,10 @@
             cbBookmarks.SelectedIndex = cbBookmarks.Items.Count - 1
 
             bookmarks.Add(cbBookmarks.Text)
+        Else
+            cbBookmarks.Text = ""
+            bookmarks.Remove(tbSearchox.Text)
+            cbBookmarks.Items.Remove(tbSearchox.Text)
         End If
     End Sub
 

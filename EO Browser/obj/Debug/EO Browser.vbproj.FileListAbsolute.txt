@@ -11,3 +11,16 @@ C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.exe
 C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.xml
 C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO Browser.pdb
 C:\Users\Eoussama\source\repos\EO Browser\EO Browser\obj\Debug\EO_Browser.fSplash.resources
+D:\Scripting\Visual Basic\EO Browser\EO Browser\bin\Debug\EO Browser.exe.config
+D:\Scripting\Visual Basic\EO Browser\EO Browser\bin\Debug\EO Browser.exe
+D:\Scripting\Visual Basic\EO Browser\EO Browser\bin\Debug\EO Browser.pdb
+D:\Scripting\Visual Basic\EO Browser\EO Browser\bin\Debug\EO Browser.xml
+D:\Scripting\Visual Basic\EO Browser\EO Browser\obj\Debug\EO Browser.vbprojResolveAssemblyReference.cache
+D:\Scripting\Visual Basic\EO Browser\EO Browser\obj\Debug\EO_Browser.fMain.resources
+D:\Scripting\Visual Basic\EO Browser\EO Browser\obj\Debug\EO_Browser.fSplash.resources
+D:\Scripting\Visual Basic\EO Browser\EO Browser\obj\Debug\EO_Browser.Resources.resources
+D:\Scripting\Visual Basic\EO Browser\EO Browser\obj\Debug\EO Browser.vbproj.GenerateResource.cache
+D:\Scripting\Visual Basic\EO Browser\EO Browser\obj\Debug\EO Browser.vbproj.CoreCompileInputs.cache
+D:\Scripting\Visual Basic\EO Browser\EO Browser\obj\Debug\EO Browser.exe
+D:\Scripting\Visual Basic\EO Browser\EO Browser\obj\Debug\EO Browser.xml
+D:\Scripting\Visual Basic\EO Browser\EO Browser\obj\Debug\EO Browser.pdb
